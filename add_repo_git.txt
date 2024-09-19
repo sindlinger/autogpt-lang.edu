@@ -1,0 +1,1 @@
+curl -H "Authorization: token YOUR_TOKEN" https://api.github.com/user/repos -d '{"name":"new-repository-name"}'
